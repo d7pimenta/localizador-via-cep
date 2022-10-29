@@ -1,5 +1,5 @@
 ## :computer: Projeto
-Projeto realizado durante o módulo **HTML5 e CSS3** do curso [FullStack da B7Web](https://b7web.com.br/fullstack/).
+Projeto realizado para busca de endereços através do CEP.
 
 ## :rocket: Tecnologias
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
