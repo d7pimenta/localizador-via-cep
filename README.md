@@ -5,15 +5,6 @@ Projeto realizado durante o módulo **HTML5 e CSS3** do curso [FullStack da B7We
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# Projeto Filmes
-
-
-# Página Home da Aplicação
-<p>Nesta sessão é possivel acessar a lista de filmes disponiveis no projeto.</p>
-<h1 align="center">
-    <img alt="Filmes" title="Filmes" src=".github/filmes-home.png" />
-</h1>
-
 ## :eyes: Site de demonstração
 
 Você pode acessar o site [aqui.](https://d7pimenta.github.io/localizador-via-cep/)
