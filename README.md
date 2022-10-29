@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1QOVDqjSXhjV9IqccVX34YEiGhz5E395F/view" width="50%">
+  <img src="[https://drive.google.com/file/d/1QOVDqjSXhjV9IqccVX34YEiGhz5E395F/view](https://drive.google.com/file/d/1QOVDqjSXhjV9IqccVX34YEiGhz5E395F/view?usp=sharing)" width="50%">
 </p>
 
 ## :computer: Projeto
