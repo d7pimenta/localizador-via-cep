@@ -18,11 +18,6 @@ Projeto realizado durante o módulo **HTML5 e CSS3** do curso [FullStack da B7We
 
 Você pode acessar o site [aqui.](https://d7pimenta.github.io/localizador-via-cep/)
 
-# Filmes
-
-
-Deploy: https://filmes-sujeito.netlify.app/
-
 <p align="center">Projeto realizado durante o curso de React do Sujeito Programador</p>
 
 
