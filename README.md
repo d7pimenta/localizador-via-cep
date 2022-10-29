@@ -15,9 +15,8 @@ Projeto realizado durante o módulo **HTML5 e CSS3** do curso [FullStack da B7We
 </h1>
 
 ## :eyes: Site de demonstração
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-Você pode acessar o site [aqui.](https://b7web-starbucks.netlify.app/)
+Você pode acessar o site [aqui.](https://d7pimenta.github.io/localizador-via-cep/)
 
 # Filmes
 
