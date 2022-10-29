@@ -13,7 +13,10 @@ Projeto realizado durante o módulo **HTML5 e CSS3** do curso [FullStack da B7We
     <img alt="Filmes" title="Filmes" src=".github/filmes-home.png" />
 </h1>
 
+## :eyes: Site de demonstração
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+Você pode acessar o site [aqui.](https://b7web-starbucks.netlify.app/)
 
 # Filmes
 
