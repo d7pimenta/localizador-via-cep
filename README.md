@@ -13,7 +13,7 @@ Projeto realizado para busca de endereços através do CEP.
 
 Você pode acessar o site [aqui.](https://d7pimenta.github.io/localizador-via-cep/)
 
-<p align="center">orientações</p>
+<p align="center">ORIENTAÇÕES</p>
 
 
 
